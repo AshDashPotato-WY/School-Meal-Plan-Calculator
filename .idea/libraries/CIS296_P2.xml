@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="CIS296-P2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/CIS296-P2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
